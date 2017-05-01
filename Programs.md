@@ -7,6 +7,7 @@
 Каникулы — с 1.05 по 9.05. ~10 мая (среда) учебный день.~
 12 июня – праздничный день.
 
+- - - -
 
 ## Список ссылок на программы предметов 4 модуля:
 * [Алгоритмы и структуры данных](https://www.hse.ru/data/2017/01/13/1117080146/program-725594847-awEzeK1y71.pdf)
@@ -19,9 +20,10 @@
 
 Взято [отсюда](https://www.hse.ru/ba/se/courses?course=2.1.2.4&page=1&year=2016) .
 
+- - - -
 
 ## Курсовая работа:
-1. В ЛМС есть дисциплина **12387 Курсовой проект 2016-2017**, к которой подключены все студенты 1-3 курсов ПИ
+1. В LMS есть дисциплина **12387 Курсовой проект 2016-2017**, к которой подключены все студенты 1-3 курсов ПИ
 2. В материалах этой дисциплины размещены: ~ГОСТы~, ~Образцы технической документации~, ~Образец отчета по курсовой работе исследовательского формата~, ~методические материалы по подготовке к защите курсовых~, информация о том, как подготовиться к защите и как проходят защиты.
 ![](Programs/list_of_documents.jpg)
 3. До защиты курсовой в проект дисциплины **12387 Курсовой проект 2016-2017** надо будет [загрузить все материалы к защите](http://lms.hse.ru/?ap_list) . В противном случае оценка за КР ~не будет выставлена~ в электронную зачетку.
@@ -42,8 +44,30 @@
 
 По всем вопросам о курсовой работе писать Ахметсафиной Римме Закиевне: rakhmetsafina@hse.ru
 
+- - - -
 
+## Летняя практика
+* [О практиках](https://istomin.im/practice/About_practice.pdf)
+* [АТОН](https://istomin.im/practice/ATON.pdf)
+* [Empatica](https://istomin.im/practice/Empatica.pdf)
+* [FORS](https://istomin.im/practice/FORS.pdf)
+* [HoloGroup](https://istomin.im/practice/HoloGroup.pdf)
+	* [HoloLens](https://istomin.im/practice/HoloLens.pdf)
+* [InStat](https://istomin.im/practice/InStat.pdf)
+* [Интер ЭВМ](https://istomin.im/practice/Inter.pdf)
+* [JetBrains](https://istomin.im/practice/JetBrains.pdf)
+* [Kaspersky Lab](https://istomin.im/practice/Kaspersky_Lab.pdf)
+* [KIT-Consalting](https://istomin.im/practice/KIT-consalting.pdf)
+* [KROK](https://istomin.im/practice/KROK.pdf)
+* [LAMBDA](https://istomin.im/practice/LAMBDA.pdf)
+* [Открытие](https://istomin.im/practice/Otkrytie.pdf)
+* [РОСА](https://istomin.im/practice/ROSA_practice.pdf)
+* [SailPlay](https://istomin.im/practice/SailPlay_HSE.pdf)
+* [Samsung](https://istomin.im/practice/Samsung.pdf)
+* [Sberbank](https://istomin.im/practice/Sberbank.pdf)
+* [TERADATA](https://istomin.im/practice/TERADATA.pdf)
+* [WebGames](https://istomin.im/practice/)
 
-
+- - - -
 📝 You can help with the document on [GitHub](https://github.com/Ivan-Istomin/HSE4Module)!
 Created by Ivan Istomin &  ![](Programs/xanax-addiction.png_32x32.jpg)
