@@ -2,10 +2,11 @@
 #education
 
 ## Даты:
-4 модуль — с 03.04 по 30.06
-Сессия — с 19.06 по 30.06
-Каникулы — с 1.05 по 9.05. ~10 мая (среда) учебный день.~
+4 модуль — с 03 апреля по 30 июня
+Сессия — с 19 июня по 30 июня
+Каникулы — с 1 мая по 9 мая. ~10 мая (среда) учебный день.~
 12 июня – праздничный день.
+Технологическая практика — с 03 июля по 15 июля 2017 г.
 
 - - - -
 
@@ -46,7 +47,7 @@
 
 - - - -
 
-## Летняя практика
+## Технологическая практика с 03 июля по 15 июля 2017 г.
 * [О практиках](https://istomin.im/practice/About_practice.pdf)
 * [АТОН](https://istomin.im/practice/ATON.pdf)
 * [Empatica](https://istomin.im/practice/Empatica.pdf)
@@ -63,7 +64,7 @@
 * [Открытие](https://istomin.im/practice/Otkrytie.pdf)
 * [РОСА](https://istomin.im/practice/ROSA_practice.pdf)
 * [SailPlay](https://istomin.im/practice/SailPlay_HSE.pdf)
-* [Samsung](https://istomin.im/practice/Samsung.pdf)
+* [Samsung](https://istomin.im/practice/Samsung.pdf) — по условиям компании, практика будет проходить во второй половине июля. Ответственным за практику назначен Шершаков Сергей Андреевич, он же будет проводить отбор среди желающих.
 * [Sberbank](https://istomin.im/practice/Sberbank.pdf)
 * [TERADATA](https://istomin.im/practice/TERADATA.pdf)
 * [WebGames](https://istomin.im/practice/)
