@@ -14,7 +14,7 @@
 * [Алгоритмы и структуры данных](https://www.hse.ru/data/2017/01/13/1117080146/program-725594847-awEzeK1y71.pdf)
 > ![](Programs/algorithms.jpg)  
 >   
-> Результат [округления к ближайшему целому](http://progress-abl.ru/raznoe/27-saga-ob-okruglenii#Round1) .  
+> Результат проводится арифметическим способом (когда половина округляется в большую сторону).  
 
 * [Операционные системы](https://www.hse.ru/data/2016/09/15/1117077413/program-725594643-MNlsFZdxCB.pdf)
 > ![](Programs/op.jpg)  
@@ -25,10 +25,11 @@
 > ![](Programs/java.jpg)  
 
 * [Статистические и эмпирические методы компьютинга](https://www.hse.ru/data/2017/04/25/1117092411/program-725595390-4qcCzE3F5h.pdf)
-`WIP`
+> ![](Programs/statistics.jpg)  
+> Результат проводится арифметическим способом (когда половина округляется в большую сторону).  
 
 * [Экономика фирмы](https://www.hse.ru/data/2016/08/31/1117076670/program-725595844-63ny_Lp0of.pdf)
-`WIP`
+> ![](Programs/finance.jpg)  
 
 * Майнор
 * Курсовая работа
