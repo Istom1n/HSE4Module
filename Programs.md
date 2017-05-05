@@ -83,6 +83,7 @@
 * [Sberbank](https://istomin.im/practice/Sberbank.pdf)
 * [TERADATA](https://istomin.im/practice/TERADATA.pdf)
 * [WebGames](https://istomin.im/practice/)
+* [IPONWEB](https://istomin.im/practice/IPONWEB2017.pdf)
 
 - - - -
 
